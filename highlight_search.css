@@ -1,0 +1,21 @@
+﻿.highlight-search-pop {
+    position: absolute;
+    display: none;
+    background: #fff;
+    padding: 15px;
+    padding-top: 5px;
+    width: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .5);
+    z-index: 99999;
+    border-top: 7px solid #10ade2cf;
+    border-radius: 6px;
+    min-width: 300px;
+}
+
+.highlight-search-pop .hspop-dismiss {
+    float: right;
+}
+
+    .highlight-search-pop .hspop-dismiss:hover {
+        cursor: pointer;
+    }
